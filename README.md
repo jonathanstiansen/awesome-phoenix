@@ -3,6 +3,7 @@ A collection of awesome things related to the web framework [pheonix!](https://g
 
 ## Frameworks
 * [Live reload](https://github.com/phoenixframework/phoenix_live_reload)
+
 ## Tutorials
 * [User guides from the phoenix team](https://github.com/phoenixframework/phoenix_guides)
 * [Intro to Phoenix through building a crud app](http://phoenix.thefirehoseproject.com)
@@ -17,14 +18,13 @@ A collection of awesome things related to the web framework [pheonix!](https://g
 * [Phoenix Channels intro videos](https://plus.google.com/events/cqvlpe6o0dtkmqgg9qb6nm24u08)
 * [Database Migrations](http://sergiotapia.me/2015/12/13/phoenix-framework-database-migrations/)
 * [Continous Integration with Circle CI](http://zac.im/2015/11/24/continuous-integration-for-phoenix-apps-on-circleci/)
-### Testing Tutorials
+
+### Testing Specific Tutorials
 * [Testing HTML In Phoenix Controllers](https://robots.thoughtbot.com/testing-phoenix-controllers-with-ex-machina)
-* 
+
 ## Pheonix and Production
 * [Phoenix running on docker](https://shanesveller.com/blog/2015/06/11/running-a-phoenix-app-via-docker-compose/)
-* 
 
 # Starter Projects
 * [Phoenix, Flux, and React](https://github.com/fxg42/phoenix-flux-react)
 * [Openmaize Phoenix](https://github.com/riverrun/openmaize-phoenix)
-* [

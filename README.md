@@ -28,3 +28,6 @@ A collection of awesome things related to the web framework [pheonix!](https://g
 # Starter Projects
 * [Phoenix, Flux, and React](https://github.com/fxg42/phoenix-flux-react)
 * [Openmaize Phoenix](https://github.com/riverrun/openmaize-phoenix)
+
+# Made with Phoeniux
+* [Trello clone with react and redux](https://react.rocks/example/phoenix-trello)

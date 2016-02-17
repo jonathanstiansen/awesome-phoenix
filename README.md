@@ -1,8 +1,12 @@
 # awesome-phoenix
-A collection of awesome things related to the web framework [pheonix!](https://github.com/phoenixframework/phoenix)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Frameworks
-* [Live reload](https://github.com/phoenixframework/phoenix_live_reload)
+A collection of awesome things related to the web framework [pheonix](https://github.com/phoenixframework/phoenix) built on top of the Elixir Language!
+
+For more awesome Elixir resources go try this [awesome list](https://github.com/h4cc/awesome-elixir)
+
+## Independant Phoenix Components
+* [Live reload](https://github.com/phoenixframework/phoenix_live_reload) allows you to change server code and have the website update without refreshing your browser!
 
 ## Tutorials
 * [User guides from the phoenix team](https://github.com/phoenixframework/phoenix_guides)

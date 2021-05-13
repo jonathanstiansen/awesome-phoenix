@@ -33,11 +33,9 @@ For more awesome Elixir resources go try this [awesome list](https://github.com/
 * [Phoenix, Flux, and React](https://github.com/fxg42/phoenix-flux-react)
 * [Openmaize Phoenix](https://github.com/riverrun/openmaize-phoenix)
 
-# Made with Pheonix
+# Made with Phoenix
 * [Trello clone with react and redux](https://react.rocks/example/phoenix-trello)
-* 
 
 # Awesome Everywhere!
-
 Amazingly awesome resources at [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list index page.
 

@@ -1,7 +1,7 @@
 # awesome-phoenix
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome things related to the web framework [pheonix](https://github.com/phoenixframework/phoenix) built on top of the Elixir Language!
+A collection of awesome things related to the web framework [phoenix](https://github.com/phoenixframework/phoenix) built on top of the Elixir Language!
 
 For more awesome Elixir resources go try this [awesome list](https://github.com/h4cc/awesome-elixir)
 
@@ -26,7 +26,7 @@ For more awesome Elixir resources go try this [awesome list](https://github.com/
 ### Testing Specific Tutorials
 * [Testing HTML In Phoenix Controllers](https://robots.thoughtbot.com/testing-phoenix-controllers-with-ex-machina)
 
-## Pheonix and Production
+## Phoenix and Production
 * [Phoenix running on docker](https://shanesveller.com/blog/2015/06/11/running-a-phoenix-app-via-docker-compose/)
 
 # Starter Projects
